@@ -9,7 +9,7 @@ It uses RecursiveCharacterTextSplitter from langchain_text_splitters, and Docume
 It also uses request and Flask from the flask library
 Then it needs to import request, json, sys, and pysqlite3
 
-To install these it is neceassary to pip install each library by tying in the terminal:"pip install" and the library you want to download.  
+To install these, you can type in the terminal `pip install -r requirements.txt`
 
 # How to Work the Code
 
